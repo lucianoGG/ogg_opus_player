@@ -1,0 +1,5 @@
+# ninja log v5
+1	313	742441204	CMakeFiles/ogg_opus_player_plugin.dir/audio.c.o	c2b91475dc2280d2
+314	475	742441205	C:/Users/lucia/OneDrive/Documentos/GitHub/chatmix_app/build/ogg_opus_player/intermediates/cxx/RelWithDebInfo/3r1o3ld2/obj/arm64-v8a/libogg_opus_player_plugin.so	687602c0ecb39c2a
+8	921	742510511	C:/Users/lucia/OneDrive/Documentos/GitHub/chatmix_app/build/ogg_opus_player/intermediates/cxx/RelWithDebInfo/3r1o3ld2/obj/arm64-v8a/libogg_opus_player_plugin.so	687602c0ecb39c2a
+3	179	742670563	C:/Users/lucia/OneDrive/Documentos/GitHub/chatmix_app/build/ogg_opus_player/intermediates/cxx/RelWithDebInfo/3r1o3ld2/obj/arm64-v8a/libogg_opus_player_plugin.so	687602c0ecb39c2a

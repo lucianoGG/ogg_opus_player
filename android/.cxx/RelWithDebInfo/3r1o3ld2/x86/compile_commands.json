@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/lucia/AppData/Local/Pub/Cache/hosted/pub.dev/ogg_opus_player-0.7.0/android/.cxx/RelWithDebInfo/3r1o3ld2/x86",
+  "command": "C:\\Users\\lucia\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/lucia/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lucia/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dogg_opus_player_plugin_EXPORTS -IC:/Users/lucia/AppData/Local/Pub/Cache/hosted/pub.dev/ogg_opus_player-0.7.0/android/src/main/cpp/opus/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\ogg_opus_player_plugin.dir\\audio.c.o -c C:\\Users\\lucia\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\ogg_opus_player-0.7.0\\android\\src\\main\\cpp\\audio.c",
+  "file": "C:\\Users\\lucia\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\ogg_opus_player-0.7.0\\android\\src\\main\\cpp\\audio.c"
+}
+]

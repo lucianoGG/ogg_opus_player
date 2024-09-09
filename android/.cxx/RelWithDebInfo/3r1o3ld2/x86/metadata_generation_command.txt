@@ -1,0 +1,18 @@
+                    -HC:\Users\lucia\AppData\Local\Pub\Cache\hosted\pub.dev\ogg_opus_player-0.7.0\android\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\lucia\AppData\Local\Android\sdk\ndk\21.1.6352462
+-DCMAKE_ANDROID_NDK=C:\Users\lucia\AppData\Local\Android\sdk\ndk\21.1.6352462
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\lucia\AppData\Local\Android\sdk\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\lucia\AppData\Local\Android\sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\lucia\OneDrive\Documentos\GitHub\chatmix_app\build\ogg_opus_player\intermediates\cxx\RelWithDebInfo\3r1o3ld2\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\lucia\OneDrive\Documentos\GitHub\chatmix_app\build\ogg_opus_player\intermediates\cxx\RelWithDebInfo\3r1o3ld2\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BC:\Users\lucia\AppData\Local\Pub\Cache\hosted\pub.dev\ogg_opus_player-0.7.0\android\.cxx\RelWithDebInfo\3r1o3ld2\x86
+-GNinja
+                    Build command args: []
+                    Version: 2
